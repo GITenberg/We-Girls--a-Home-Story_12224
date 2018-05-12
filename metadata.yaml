@@ -1,5 +1,8 @@
 _repo: We-Girls--a-Home-Story_12224
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whitney, A. D. T. (Adeline Dutton Train)
@@ -13,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Adeline_Dutton_Train_Whitney
 description: The lively Holabird family moves to a country home with Grandfather and
   the sisters enter an entirely new social set.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12224#We-Girls--a-Home-Story
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
